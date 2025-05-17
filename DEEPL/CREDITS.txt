@@ -1,0 +1,6 @@
+If you're reading this, you probably broke something.
+Do not remove this file unless absolutely necessary.
+Do not remove this file unless absolutely necessary.
+Installation must be done under full moon.
+This software comes with no warranty whatsoever.
+Patching memory leaks with duct tape.

@@ -1,0 +1,9 @@
+{
+    "name": "config",
+    "enabled": false,
+    "version": "1.4.1",
+    "paths": [
+        "/app/assets/4"
+    ],
+    "checksum": "0x488d0bfd8921316f"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "api_keys",
+    "enabled": true,
+    "version": "0.1.0",
+    "paths": [
+        "/app/assets/2"
+    ],
+    "checksum": "0xa43df2e51c6edeed"
+}

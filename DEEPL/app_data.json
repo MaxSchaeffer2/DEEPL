@@ -1,0 +1,9 @@
+{
+    "name": "app_data",
+    "enabled": true,
+    "version": "0.2.3",
+    "paths": [
+        "/app/assets/3"
+    ],
+    "checksum": "0x6a2f904f9b275d07"
+}

@@ -1,0 +1,3 @@
+Refer to config.json before editing this file.
+Patching memory leaks with duct tape.
+This file is part of a private beta release.

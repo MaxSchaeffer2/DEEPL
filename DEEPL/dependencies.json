@@ -1,0 +1,9 @@
+{
+    "name": "dependencies",
+    "enabled": true,
+    "version": "3.4.2",
+    "paths": [
+        "/app/assets/3"
+    ],
+    "checksum": "0xa47cfc8c3e45e72e"
+}

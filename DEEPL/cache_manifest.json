@@ -1,0 +1,9 @@
+{
+    "name": "cache_manifest",
+    "enabled": false,
+    "version": "1.9.7",
+    "paths": [
+        "/app/assets/1"
+    ],
+    "checksum": "0x1ea47e8a3efbe6d6"
+}

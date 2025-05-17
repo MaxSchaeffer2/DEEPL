@@ -1,0 +1,6 @@
+Patching memory leaks with duct tape.
+All rights reserved © 2025 DevCorp Inc.
+Patching memory leaks with duct tape.
+Patching memory leaks with duct tape.
+Changes in this version include fixes to nothing at all.
+Refer to config.json before editing this file.

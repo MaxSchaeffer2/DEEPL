@@ -1,0 +1,9 @@
+{
+    "name": "auth_profile",
+    "enabled": false,
+    "version": "3.9.9",
+    "paths": [
+        "/app/assets/2"
+    ],
+    "checksum": "0x4a0e1da17349c7f2"
+}
